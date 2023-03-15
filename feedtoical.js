@@ -26,8 +26,8 @@ function convert(feedItems) {
 
   const calendar = ical({
     domain: 'example.com',
-    name: 'Aggregated Events',
-    prodId: '//example.com//Aggregated Events//EN',
+    name: 'Events as Calendar',
+    prodId: '//example.com//Events as Calendar//EN',
   });
 
   for (const event of events) {

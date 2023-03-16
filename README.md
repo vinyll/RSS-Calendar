@@ -10,6 +10,7 @@ This script is a web server that read RSS feed urls from a text file and serves 
 git clone https://github.com/vinyll/RSS-Calendar.git
 cd RSS-Calendar
 npm i
+cp urls.{example.txt,txt}  # Get some sample RSS urls
 ```
 
 ## Running

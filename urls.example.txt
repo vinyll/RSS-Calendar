@@ -1,0 +1,3 @@
+https://tourrettessurloup.com/events/feed/
+https://lebarsurloup.fr/feed/
+https://us-central1-app-store-81d55.cloudfunctions.net/api/v1/rss-feed/fyViSGo7uIztsNbMLXSy

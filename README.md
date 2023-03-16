@@ -15,9 +15,9 @@ cp urls.{example.txt,txt}  # Get some sample RSS urls
 
 ## Running
 
-Run the script
+Run the server:
 ```
-node index.js
+npm start
 ```
 
 For testing purpose you can open your browser at http://localhost:3000/events.ics.

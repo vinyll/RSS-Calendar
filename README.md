@@ -1,4 +1,4 @@
-# RSS Feed To Calendar
+# RSS Feeds To Calendar
 
 Read multiple RSS feeds from your calendar.
 
